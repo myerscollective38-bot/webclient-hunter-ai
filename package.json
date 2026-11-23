@@ -1,0 +1,8 @@
+{
+  "name": "webclient-hunter-ai",
+  "version": "1.0.0",
+  "description": "AI-powered website prospecting tool for freelancers",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
